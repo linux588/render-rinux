@@ -11,7 +11,7 @@
 
 经测试本镜像占用内存资源较低，运行稳定。点击下方紫色图标部署。
 
-<a href="https://render.com/deploy?repo=https://github.com/linux588/render-rinux/main">
+<a href="https://render.com/deploy?repo=https://github.com/linux588/render-rinux/tree/main">
   <img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render">
 </a>
 
